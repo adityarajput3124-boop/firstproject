@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cloud Lab</title>
+</head>
+<body>
+    <h1>Cloud Lab</h1>
+</body>
+</html>
